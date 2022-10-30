@@ -40,10 +40,10 @@ Or just download the script from the GitHub repository.
 ![Project Folder](./screenshots/1.png)
 - Script running
 ![Script running](./screenshots/2.png)
-- Opining the index.html file in Google Chrome browser
-![Google Chrome](./screenshots/3.png)
 - Stanadard web tree Structure
 ![tree Structure](./screenshots/4.png)
+- Opining the index.html file in Google Chrome browser
+![Google Chrome](./screenshots/3.png)
 - Opining the project folder in VScode
 ![VScode](./screenshots/5.png)
 
